@@ -42,4 +42,4 @@
   - update .gitignore;
 
 ### Notices
-  - The project is pre-configured for publication on github pages
+  - The project is pre-configured for use in Chrome based browsers.
